@@ -116,5 +116,5 @@ export default function Home() {
 
 ## Работа приложения:
 
-![Task](Photos/trflight.png) 
+![Task](Photos/trflight.gif) 
 
