@@ -19,7 +19,7 @@ export default function TrafficLight() {
   const colors = ["red", "yellow", "green"];
 
   return (
-    <div className="trflight" role="group">
+    <div className="trflight">
       {colors.map((color) => {
         const isActive = activeLight === color;
         const className = [
